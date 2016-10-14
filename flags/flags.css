@@ -6,7 +6,7 @@
     display: inline-block;
     width: 16px;
     height: 10px;
-    background: url('flags.png') no-repeat;
+    background: url('https://raw.githubusercontent.com/arshdkhn1/force-directed-graph/master/flags/flags.png') no-repeat;
 }
 
 
